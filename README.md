@@ -124,8 +124,8 @@ This dashboard enables stakeholders to:
 **Salau Bukola**
 Data Analyst | Power BI Enthusiast | Psychology Graduate
 
-* LinkedIn: (Add your LinkedIn link)
-* Email: [Salaubukola85@gmail.com]
+* LinkedIn: LinkedIn: [Salau Bukola](https://www.linkedin.com/in/salau-bukola-783922289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLjIMlf6MQCOdc6t%2BOKWylg%3D%3D)
+* Email: Email: [salaubukola85@gmail.com](mailto:salaubukola85@gmail.com)
 
 ---
 
