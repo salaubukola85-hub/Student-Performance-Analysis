@@ -1,13 +1,13 @@
 # Student-Performance-Analysis
-Performance and revenue analysis of Tech Studio Academy using Power BI to evaluate enrollment, dropout rate, and instructor workload against targets. Provides data-driven insights and recommendations to improve student acquisition, retention, and revenue growth.
+Comprehensive Power BI Business PErformance Analysis of a Technology Training Institute
+
+<img width="697" height="393" alt="Screenshot 2026-02-25 130804" src="https://github.com/user-attachments/assets/355b9cf0-442c-4409-9966-dc947baaf044" />
+<img width="693" height="381" alt="Screenshot 2026-02-25 130904" src="https://github.com/user-attachments/assets/635a479f-2694-470f-80ee-33653743fe55" />
 
 
-<img width="693" height="385" alt="Screenshot 2026-02-25 130853" src="https://github.com/user-attachments/assets/9939596c-5bbb-46b6-8488-26801b575a4d" />
-<img width="697" height="393" alt="Screenshot 2026-02-25 130804" src="https://github.com/user-attachments/assets/38eb6ed6-eeb6-4811-9ec0-9f8ba59a378e" />
+#  Tech Studio Performance Analysis Dashboard
 
-# 🎓 Tech Studio Performance Analysis Dashboard
-
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an end-to-end data analysis of Tech Studio’s institutional performance using **Power BI**. The goal of the analysis is to evaluate student enrollment, academic performance, revenue generation, instructor distribution, and dropout trends across multiple campuses and courses to support data-driven decision-making.
 
@@ -15,7 +15,7 @@ The dashboard integrates multiple datasets to provide a comprehensive view of op
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Tech Studio aims to increase student enrollment, improve retention, and achieve its revenue targets. However, there is a noticeable gap between actual performance and institutional goals, including:
 
@@ -28,7 +28,7 @@ This project addresses these challenges by identifying patterns, trends, and act
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The analysis combines **five datasets**:
 
@@ -40,7 +40,7 @@ The analysis combines **five datasets**:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Power BI** — Data modeling, visualization, dashboard development
 * **Power Query** — Data cleaning and transformation
@@ -49,7 +49,7 @@ The analysis combines **five datasets**:
 
 ---
 
-## 🔗 Data Modeling Approach
+## Data Modeling Approach
 
 A relational data model was created in Power BI by connecting the five datasets using common fields such as:
 
@@ -62,7 +62,7 @@ This enabled cross-table analysis and accurate aggregation of performance metric
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The following KPIs were developed using DAX:
 
@@ -76,7 +76,7 @@ The following KPIs were developed using DAX:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Student enrollment (150) is significantly below the institutional target (2000), indicating major growth opportunities.
 * Technical courses such as AI and Data Science show higher enrollment compared to other programs.
@@ -86,7 +86,7 @@ The following KPIs were developed using DAX:
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 
 * Increase marketing efforts and partnerships to improve enrollment numbers.
 * Implement mentorship and academic support programs to reduce dropout rates.
@@ -96,7 +96,7 @@ The following KPIs were developed using DAX:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 * Interactive KPI cards for performance tracking
 * Course enrollment analysis
@@ -108,7 +108,7 @@ The following KPIs were developed using DAX:
 
 ---
 
-## ✅ Project Outcomes
+## Project Outcomes
 
 This dashboard enables stakeholders to:
 
@@ -117,13 +117,13 @@ This dashboard enables stakeholders to:
 * Support strategic planning with data-driven insights
 * Improve student retention and revenue optimization
 
-## 👩‍💻 Author
+## Author
 
 **Salau Bukola**
-Aspiring Data Analyst | Power BI Enthusiast | Psychology Graduate
+Data Analyst | Power BI Enthusiast | Psychology Graduate
 
 * LinkedIn: (Add your LinkedIn link)
-* Email: [salaubukola85@gmail.com](mailto:salaubukola85@gmail.com)
+* Email: [Salaubukola85@gmail.com]
 
 ---
 
