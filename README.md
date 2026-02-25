@@ -1,5 +1,5 @@
 # Student-Performance-Analysis
-Comprehensive Power BI Business PErformance Analysis of a Technology Training Institute
+Comprehensive Power BI Business Performance Analysis of a Technology Training Institute
 
 <img width="697" height="393" alt="Screenshot 2026-02-25 130804" src="https://github.com/user-attachments/assets/ff2d9da6-5859-4242-a707-559540164eca" />
 
