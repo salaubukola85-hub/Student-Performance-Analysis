@@ -1,8 +1,8 @@
 # Student-Performance-Analysis
 Comprehensive Power BI Business PErformance Analysis of a Technology Training Institute
 
-<img width="697" height="393" alt="Screenshot 2026-02-25 130804" src="https://github.com/user-attachments/assets/355b9cf0-442c-4409-9966-dc947baaf044" />
-<img width="693" height="381" alt="Screenshot 2026-02-25 130904" src="https://github.com/user-attachments/assets/635a479f-2694-470f-80ee-33653743fe55" />
+<img width="697" height="393" alt="Screenshot 2026-02-25 130804" src="https://github.com/user-attachments/assets/ff2d9da6-5859-4242-a707-559540164eca" />
+
 
 
 #  Tech Studio Performance Analysis Dashboard
