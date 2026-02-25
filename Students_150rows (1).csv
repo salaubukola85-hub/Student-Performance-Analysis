@@ -1,0 +1,151 @@
+StudentID,Gender,Age,City,Campus,EnrollmentDate,Course,StudyMode,Status
+1,Male,20,Lagos,West,2025-01-01,Cybersecurity,Physical,Active
+2,Female,20,Ibadan,West,2025-01-02,Web Development,Online,Completed
+3,Male,18,Ibadan,Main,2025-01-03,Cybersecurity,Physical,Completed
+4,Male,22,Ibadan,East,2025-01-04,Data Science,Online,Active
+5,Male,27,Benin,West,2025-01-05,Web Development,Physical,Active
+6,Female,24,Abeokuta,North,2025-01-06,Artificial Intelligence,Physical,Completed
+7,Male,26,Lagos,Main,2025-01-07,Web Development,Physical,Completed
+8,Male,24,Benin,West,2025-01-08,Web Development,Online,Completed
+9,Male,26,Ibadan,West,2025-01-09,Web Development,Physical,Completed
+10,Female,25,Lagos,North,2025-01-10,Digital Marketing,Online,Dropped
+11,Male,29,Benin,East,2025-01-11,Web Development,Online,Completed
+12,Male,19,Abeokuta,East,2025-01-12,Cybersecurity,Online,Completed
+13,Male,18,Benin,East,2025-01-13,Data Science,Online,Dropped
+14,Male,33,Abeokuta,West,2025-01-14,UI/UX Design,Physical,Active
+15,Female,22,Ibadan,West,2025-01-15,Web Development,Physical,Active
+16,Male,20,Abeokuta,West,2025-01-16,Artificial Intelligence,Online,Active
+17,Female,29,Lagos,Main,2025-01-17,Web Development,Online,Completed
+18,Female,25,Ibadan,North,2025-01-18,Artificial Intelligence,Physical,Completed
+19,Female,39,Lagos,West,2025-01-19,Cybersecurity,Online,Completed
+20,Male,20,Ilorin,North,2025-01-20,Artificial Intelligence,Physical,Active
+21,Female,18,Abuja,North,2025-01-21,UI/UX Design,Online,Active
+22,Male,20,Abeokuta,East,2025-01-22,Data Science,Online,Active
+23,Female,22,Abuja,Main,2025-01-23,Artificial Intelligence,Physical,Active
+24,Female,32,Abuja,West,2025-01-24,Artificial Intelligence,Online,Completed
+25,Female,31,Abeokuta,East,2025-01-25,Data Science,Physical,Active
+26,Female,20,Ibadan,East,2025-01-26,UI/UX Design,Online,Active
+27,Female,18,Ilorin,West,2025-01-27,Web Development,Online,Dropped
+28,Female,22,Lagos,North,2025-01-28,Artificial Intelligence,Online,Active
+29,Female,31,Benin,East,2025-01-29,Data Science,Physical,Completed
+30,Female,24,Lagos,North,2025-01-30,Cybersecurity,Online,Completed
+31,Male,26,Benin,Main,2025-01-31,Data Science,Online,Active
+32,Male,32,Lagos,North,2025-02-01,Cybersecurity,Online,Completed
+33,Female,32,Abeokuta,Main,2025-02-02,UI/UX Design,Online,Dropped
+34,Female,27,Ilorin,North,2025-02-03,Web Development,Physical,Dropped
+35,Female,30,Benin,East,2025-02-04,Data Science,Physical,Active
+36,Male,36,Ibadan,East,2025-02-05,Digital Marketing,Online,Dropped
+37,Female,24,Lagos,Main,2025-02-06,Artificial Intelligence,Physical,Active
+38,Male,34,Lagos,West,2025-02-07,UI/UX Design,Online,Active
+39,Male,37,Benin,Main,2025-02-08,Data Science,Online,Active
+40,Male,21,Ibadan,Main,2025-02-09,Artificial Intelligence,Online,Dropped
+41,Male,22,Ibadan,North,2025-02-10,Data Science,Physical,Active
+42,Male,24,Abeokuta,North,2025-02-11,Cybersecurity,Physical,Active
+43,Female,30,Abeokuta,Main,2025-02-12,Data Science,Physical,Completed
+44,Female,32,Abeokuta,East,2025-02-13,Digital Marketing,Physical,Active
+45,Female,28,Abeokuta,North,2025-02-14,Data Science,Physical,Active
+46,Female,21,Abeokuta,West,2025-02-15,Data Science,Physical,Active
+47,Female,30,Abeokuta,North,2025-02-16,Digital Marketing,Physical,Active
+48,Male,24,Ilorin,North,2025-02-17,UI/UX Design,Physical,Active
+49,Female,36,Ibadan,West,2025-02-18,Data Science,Physical,Active
+50,Female,39,Abeokuta,Main,2025-02-19,Digital Marketing,Online,Completed
+51,Male,19,Ibadan,West,2025-02-20,Artificial Intelligence,Physical,Active
+52,Female,27,Ibadan,Main,2025-02-21,Cybersecurity,Physical,Active
+53,Male,30,Abuja,Main,2025-02-22,Cybersecurity,Physical,Dropped
+54,Female,38,Ilorin,Main,2025-02-23,Data Science,Physical,Active
+55,Male,23,Abeokuta,West,2025-02-24,UI/UX Design,Physical,Completed
+56,Female,29,Lagos,Main,2025-02-25,UI/UX Design,Physical,Active
+57,Female,29,Benin,East,2025-02-26,Artificial Intelligence,Physical,Active
+58,Male,37,Lagos,West,2025-02-27,Data Science,Physical,Active
+59,Male,28,Ilorin,East,2025-02-28,Cybersecurity,Physical,Active
+60,Male,24,Benin,Main,2025-03-01,UI/UX Design,Physical,Active
+61,Male,18,Ilorin,North,2025-03-02,Data Science,Physical,Active
+62,Male,18,Ibadan,Main,2025-03-03,UI/UX Design,Online,Active
+63,Male,37,Benin,East,2025-03-04,Digital Marketing,Online,Active
+64,Male,30,Ibadan,East,2025-03-05,UI/UX Design,Physical,Active
+65,Male,26,Lagos,West,2025-03-06,Cybersecurity,Physical,Active
+66,Female,20,Lagos,North,2025-03-07,Web Development,Online,Active
+67,Female,24,Benin,West,2025-03-08,Artificial Intelligence,Physical,Completed
+68,Male,23,Benin,East,2025-03-09,Artificial Intelligence,Online,Completed
+69,Female,25,Abeokuta,Main,2025-03-10,Cybersecurity,Online,Active
+70,Female,26,Ilorin,North,2025-03-11,UI/UX Design,Online,Completed
+71,Female,22,Abeokuta,Main,2025-03-12,Data Science,Online,Completed
+72,Female,18,Ilorin,Main,2025-03-13,UI/UX Design,Online,Active
+73,Male,36,Abeokuta,North,2025-03-14,Cybersecurity,Physical,Dropped
+74,Female,27,Ibadan,West,2025-03-15,Artificial Intelligence,Online,Dropped
+75,Male,29,Benin,Main,2025-03-16,UI/UX Design,Physical,Active
+76,Female,32,Lagos,East,2025-03-17,Artificial Intelligence,Physical,Active
+77,Female,39,Ilorin,Main,2025-03-18,Data Science,Online,Dropped
+78,Female,26,Ilorin,North,2025-03-19,Artificial Intelligence,Online,Completed
+79,Male,37,Lagos,North,2025-03-20,Artificial Intelligence,Physical,Active
+80,Female,34,Abeokuta,North,2025-03-21,Web Development,Online,Active
+81,Male,34,Ilorin,West,2025-03-22,Web Development,Online,Active
+82,Female,37,Ibadan,Main,2025-03-23,Digital Marketing,Physical,Active
+83,Male,29,Benin,West,2025-03-24,Web Development,Physical,Completed
+84,Female,24,Lagos,West,2025-03-25,Artificial Intelligence,Online,Active
+85,Male,19,Benin,North,2025-03-26,Cybersecurity,Physical,Active
+86,Male,20,Ilorin,North,2025-03-27,Artificial Intelligence,Online,Completed
+87,Female,34,Ilorin,West,2025-03-28,Cybersecurity,Online,Active
+88,Male,22,Lagos,Main,2025-03-29,Cybersecurity,Online,Active
+89,Female,34,Ibadan,East,2025-03-30,Web Development,Physical,Completed
+90,Female,34,Abuja,West,2025-03-31,UI/UX Design,Physical,Dropped
+91,Female,34,Lagos,Main,2025-04-01,Data Science,Physical,Completed
+92,Female,19,Abuja,North,2025-04-02,Web Development,Physical,Completed
+93,Female,19,Abeokuta,North,2025-04-03,Web Development,Physical,Active
+94,Female,39,Abuja,Main,2025-04-04,UI/UX Design,Online,Active
+95,Female,22,Ibadan,East,2025-04-05,Data Science,Online,Completed
+96,Female,18,Abeokuta,North,2025-04-06,Artificial Intelligence,Online,Active
+97,Female,18,Abuja,North,2025-04-07,Digital Marketing,Online,Active
+98,Female,36,Abeokuta,North,2025-04-08,Digital Marketing,Physical,Active
+99,Female,19,Abuja,Main,2025-04-09,Artificial Intelligence,Online,Active
+100,Male,38,Ibadan,West,2025-04-10,Web Development,Physical,Active
+101,Male,29,Abuja,North,2025-04-11,Data Science,Online,Active
+102,Female,23,Abuja,West,2025-04-12,Web Development,Physical,Active
+103,Female,21,Abuja,East,2025-04-13,Cybersecurity,Physical,Active
+104,Female,28,Lagos,North,2025-04-14,Web Development,Online,Dropped
+105,Female,34,Lagos,North,2025-04-15,Web Development,Online,Completed
+106,Female,23,Lagos,East,2025-04-16,Artificial Intelligence,Online,Completed
+107,Female,22,Ibadan,North,2025-04-17,Artificial Intelligence,Online,Completed
+108,Female,37,Abeokuta,West,2025-04-18,Artificial Intelligence,Physical,Active
+109,Female,19,Ilorin,Main,2025-04-19,Digital Marketing,Online,Active
+110,Male,23,Abuja,West,2025-04-20,Cybersecurity,Online,Completed
+111,Female,39,Abuja,Main,2025-04-21,Artificial Intelligence,Physical,Completed
+112,Male,28,Ibadan,Main,2025-04-22,Data Science,Online,Completed
+113,Female,33,Abuja,West,2025-04-23,Digital Marketing,Online,Active
+114,Female,33,Lagos,West,2025-04-24,UI/UX Design,Online,Active
+115,Male,18,Ilorin,West,2025-04-25,Data Science,Online,Active
+116,Female,26,Benin,West,2025-04-26,Data Science,Online,Active
+117,Male,23,Abuja,East,2025-04-27,Artificial Intelligence,Physical,Completed
+118,Female,33,Lagos,North,2025-04-28,UI/UX Design,Online,Completed
+119,Female,20,Benin,Main,2025-04-29,UI/UX Design,Online,Active
+120,Male,37,Ilorin,West,2025-04-30,Digital Marketing,Online,Dropped
+121,Female,21,Benin,West,2025-05-01,UI/UX Design,Online,Completed
+122,Male,36,Lagos,West,2025-05-02,Cybersecurity,Online,Active
+123,Female,20,Abeokuta,East,2025-05-03,Artificial Intelligence,Physical,Active
+124,Male,36,Abeokuta,West,2025-05-04,UI/UX Design,Online,Active
+125,Male,37,Benin,West,2025-05-05,Digital Marketing,Physical,Active
+126,Female,24,Ibadan,West,2025-05-06,Cybersecurity,Physical,Active
+127,Female,37,Benin,North,2025-05-07,Web Development,Online,Active
+128,Male,26,Abuja,East,2025-05-08,Web Development,Online,Active
+129,Female,18,Abuja,West,2025-05-09,Cybersecurity,Online,Active
+130,Female,25,Abeokuta,Main,2025-05-10,Digital Marketing,Online,Dropped
+131,Female,24,Ibadan,Main,2025-05-11,Cybersecurity,Physical,Active
+132,Male,35,Lagos,Main,2025-05-12,Artificial Intelligence,Online,Completed
+133,Male,25,Abuja,East,2025-05-13,Artificial Intelligence,Online,Active
+134,Male,18,Abeokuta,East,2025-05-14,Web Development,Online,Dropped
+135,Male,28,Ilorin,Main,2025-05-15,UI/UX Design,Online,Active
+136,Male,35,Abeokuta,West,2025-05-16,Digital Marketing,Online,Active
+137,Male,27,Abuja,East,2025-05-17,Web Development,Online,Dropped
+138,Male,20,Abuja,Main,2025-05-18,UI/UX Design,Physical,Dropped
+139,Male,24,Abeokuta,Main,2025-05-19,UI/UX Design,Physical,Dropped
+140,Male,33,Lagos,West,2025-05-20,Artificial Intelligence,Online,Active
+141,Female,33,Benin,North,2025-05-21,Data Science,Online,Active
+142,Male,37,Abuja,East,2025-05-22,Data Science,Online,Completed
+143,Female,34,Abeokuta,West,2025-05-23,Cybersecurity,Physical,Dropped
+144,Female,19,Abeokuta,Main,2025-05-24,Artificial Intelligence,Online,Completed
+145,Female,18,Ibadan,Main,2025-05-25,UI/UX Design,Physical,Completed
+146,Male,33,Benin,West,2025-05-26,Digital Marketing,Online,Active
+147,Male,29,Ilorin,East,2025-05-27,Data Science,Online,Completed
+148,Male,22,Lagos,North,2025-05-28,UI/UX Design,Online,Active
+149,Male,22,Ilorin,North,2025-05-29,Data Science,Online,Active
+150,Female,26,Benin,Main,2025-05-30,Data Science,Physical,Active

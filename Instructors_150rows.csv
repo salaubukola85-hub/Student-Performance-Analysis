@@ -1,0 +1,21 @@
+InstructorID,InstructorName,Course,Campus,ExperienceYears
+1,Instructor_1,Cybersecurity,West,6
+2,Instructor_2,Artificial Intelligence,East,11
+3,Instructor_3,Web Development,Main,5
+4,Instructor_4,Web Development,Main,12
+5,Instructor_5,Digital Marketing,Main,7
+6,Instructor_6,Artificial Intelligence,North,13
+7,Instructor_7,UI/UX Design,West,8
+8,Instructor_8,Artificial Intelligence,East,6
+9,Instructor_9,UI/UX Design,West,12
+10,Instructor_10,Artificial Intelligence,West,14
+11,Instructor_11,Artificial Intelligence,West,11
+12,Instructor_12,Data Science,Main,10
+13,Instructor_13,Web Development,East,4
+14,Instructor_14,Artificial Intelligence,East,8
+15,Instructor_15,Digital Marketing,West,11
+16,Instructor_16,Artificial Intelligence,Main,11
+17,Instructor_17,Cybersecurity,Main,12
+18,Instructor_18,Web Development,East,6
+19,Instructor_19,Cybersecurity,Main,8
+20,Instructor_20,Web Development,Main,3

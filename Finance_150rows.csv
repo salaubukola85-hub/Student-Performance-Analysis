@@ -1,0 +1,151 @@
+StudentID,Course,FeePaid,PaymentType,PaymentDate
+100,Cybersecurity,199530,Card,2025-01-10
+2,Cybersecurity,274571,Card,2025-01-11
+77,Digital Marketing,228856,Cash,2025-01-12
+12,Data Science,191635,Cash,2025-01-13
+39,Digital Marketing,227803,Card,2025-01-14
+13,Data Science,155946,Card,2025-01-15
+46,Data Science,175204,Card,2025-01-16
+113,Web Development,135563,Card,2025-01-17
+17,UI/UX Design,212324,Cash,2025-01-18
+104,Web Development,129847,Card,2025-01-19
+98,UI/UX Design,146155,Cash,2025-01-20
+88,Digital Marketing,199671,Card,2025-01-21
+109,UI/UX Design,236891,Card,2025-01-22
+70,Digital Marketing,203310,Card,2025-01-23
+74,Cybersecurity,269381,Cash,2025-01-24
+63,Cybersecurity,251691,Cash,2025-01-25
+60,UI/UX Design,154707,Transfer,2025-01-26
+79,UI/UX Design,271409,Card,2025-01-27
+37,Digital Marketing,201537,Transfer,2025-01-28
+22,Web Development,298686,Transfer,2025-01-29
+148,Digital Marketing,211155,Cash,2025-01-30
+96,Web Development,120281,Cash,2025-01-31
+68,Cybersecurity,278492,Transfer,2025-02-01
+17,Data Science,290102,Card,2025-02-02
+12,UI/UX Design,252130,Cash,2025-02-03
+150,Web Development,196260,Card,2025-02-04
+145,Digital Marketing,279476,Card,2025-02-05
+138,Cybersecurity,280928,Transfer,2025-02-06
+118,Web Development,260272,Transfer,2025-02-07
+22,Digital Marketing,184178,Transfer,2025-02-08
+120,UI/UX Design,153997,Transfer,2025-02-09
+50,UI/UX Design,276683,Cash,2025-02-10
+14,Artificial Intelligence,239273,Cash,2025-02-11
+29,Data Science,292307,Transfer,2025-02-12
+125,Artificial Intelligence,286129,Cash,2025-02-13
+7,Cybersecurity,252311,Transfer,2025-02-14
+29,Web Development,246945,Card,2025-02-15
+139,Cybersecurity,165272,Card,2025-02-16
+33,Digital Marketing,209393,Card,2025-02-17
+134,UI/UX Design,181212,Transfer,2025-02-18
+111,Artificial Intelligence,266470,Card,2025-02-19
+79,Artificial Intelligence,240030,Cash,2025-02-20
+58,Artificial Intelligence,176503,Card,2025-02-21
+26,Cybersecurity,257710,Card,2025-02-22
+29,UI/UX Design,126570,Card,2025-02-23
+4,Web Development,188785,Cash,2025-02-24
+99,Digital Marketing,129110,Transfer,2025-02-25
+141,Web Development,199141,Cash,2025-02-26
+39,Cybersecurity,132115,Transfer,2025-02-27
+15,Digital Marketing,159062,Transfer,2025-02-28
+119,Artificial Intelligence,142911,Card,2025-03-01
+29,Data Science,224061,Transfer,2025-03-02
+75,Cybersecurity,152556,Cash,2025-03-03
+116,Cybersecurity,248335,Cash,2025-03-04
+32,UI/UX Design,121969,Transfer,2025-03-05
+130,Web Development,163753,Card,2025-03-06
+84,Cybersecurity,255542,Card,2025-03-07
+22,Cybersecurity,241863,Cash,2025-03-08
+27,Artificial Intelligence,130225,Card,2025-03-09
+81,Artificial Intelligence,243008,Transfer,2025-03-10
+126,Digital Marketing,274268,Transfer,2025-03-11
+92,Data Science,225823,Cash,2025-03-12
+21,UI/UX Design,133669,Transfer,2025-03-13
+47,Data Science,288452,Cash,2025-03-14
+101,Digital Marketing,244398,Transfer,2025-03-15
+84,Artificial Intelligence,230677,Cash,2025-03-16
+6,Web Development,168320,Card,2025-03-17
+147,Artificial Intelligence,298486,Transfer,2025-03-18
+131,UI/UX Design,266649,Transfer,2025-03-19
+1,Artificial Intelligence,245354,Cash,2025-03-20
+58,UI/UX Design,208009,Cash,2025-03-21
+124,UI/UX Design,148625,Transfer,2025-03-22
+15,UI/UX Design,144089,Cash,2025-03-23
+64,Digital Marketing,156487,Transfer,2025-03-24
+25,UI/UX Design,230448,Card,2025-03-25
+24,UI/UX Design,170138,Cash,2025-03-26
+12,Web Development,293895,Transfer,2025-03-27
+18,Data Science,288280,Card,2025-03-28
+15,Cybersecurity,174061,Card,2025-03-29
+27,Data Science,281731,Transfer,2025-03-30
+72,UI/UX Design,221376,Cash,2025-03-31
+60,Web Development,282962,Transfer,2025-04-01
+145,Artificial Intelligence,199134,Card,2025-04-02
+93,Web Development,167055,Transfer,2025-04-03
+53,UI/UX Design,139508,Cash,2025-04-04
+8,Web Development,293359,Card,2025-04-05
+79,Web Development,278056,Transfer,2025-04-06
+27,UI/UX Design,230169,Cash,2025-04-07
+50,Digital Marketing,128125,Card,2025-04-08
+131,Web Development,156059,Cash,2025-04-09
+93,Cybersecurity,223409,Card,2025-04-10
+24,Cybersecurity,268159,Transfer,2025-04-11
+60,Web Development,125704,Cash,2025-04-12
+122,Digital Marketing,231279,Card,2025-04-13
+131,Artificial Intelligence,278280,Cash,2025-04-14
+148,UI/UX Design,238516,Cash,2025-04-15
+46,Cybersecurity,290954,Transfer,2025-04-16
+15,Artificial Intelligence,276995,Cash,2025-04-17
+17,Web Development,234044,Card,2025-04-18
+126,Artificial Intelligence,149165,Card,2025-04-19
+84,Data Science,187203,Card,2025-04-20
+9,Cybersecurity,124114,Card,2025-04-21
+63,Web Development,156321,Transfer,2025-04-22
+117,UI/UX Design,193297,Cash,2025-04-23
+130,Digital Marketing,216652,Transfer,2025-04-24
+88,Web Development,219304,Cash,2025-04-25
+72,UI/UX Design,276498,Cash,2025-04-26
+139,Digital Marketing,137772,Cash,2025-04-27
+64,Digital Marketing,223754,Transfer,2025-04-28
+72,Web Development,123712,Cash,2025-04-29
+21,Artificial Intelligence,252439,Transfer,2025-04-30
+18,Artificial Intelligence,235142,Card,2025-05-01
+64,Digital Marketing,211736,Card,2025-05-02
+82,Artificial Intelligence,171924,Cash,2025-05-03
+110,Data Science,123726,Transfer,2025-05-04
+95,Digital Marketing,209152,Card,2025-05-05
+32,Digital Marketing,147723,Transfer,2025-05-06
+11,UI/UX Design,246969,Transfer,2025-05-07
+45,Artificial Intelligence,220494,Cash,2025-05-08
+33,Digital Marketing,260180,Card,2025-05-09
+102,Data Science,155643,Cash,2025-05-10
+136,UI/UX Design,282396,Cash,2025-05-11
+11,Web Development,223896,Card,2025-05-12
+88,Digital Marketing,259999,Card,2025-05-13
+41,Data Science,213680,Transfer,2025-05-14
+145,Cybersecurity,216546,Card,2025-05-15
+76,Data Science,273515,Transfer,2025-05-16
+121,Data Science,199973,Transfer,2025-05-17
+46,UI/UX Design,183449,Transfer,2025-05-18
+80,Web Development,229834,Card,2025-05-19
+54,Cybersecurity,145537,Cash,2025-05-20
+86,Artificial Intelligence,197576,Transfer,2025-05-21
+92,Artificial Intelligence,227522,Cash,2025-05-22
+148,Data Science,142612,Cash,2025-05-23
+97,UI/UX Design,126471,Card,2025-05-24
+2,UI/UX Design,286703,Cash,2025-05-25
+33,Artificial Intelligence,151348,Cash,2025-05-26
+77,Cybersecurity,121177,Card,2025-05-27
+116,Web Development,255832,Transfer,2025-05-28
+150,Cybersecurity,152779,Cash,2025-05-29
+103,Digital Marketing,141636,Card,2025-05-30
+103,Digital Marketing,201889,Cash,2025-05-31
+90,Web Development,173551,Cash,2025-06-01
+122,Artificial Intelligence,262628,Transfer,2025-06-02
+143,Web Development,278670,Cash,2025-06-03
+106,UI/UX Design,262635,Card,2025-06-04
+119,Digital Marketing,166819,Cash,2025-06-05
+49,Data Science,193770,Transfer,2025-06-06
+104,Data Science,278038,Transfer,2025-06-07
+61,Artificial Intelligence,278059,Card,2025-06-08
