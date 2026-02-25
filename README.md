@@ -3,6 +3,8 @@ Comprehensive Power BI Business PErformance Analysis of a Technology Training In
 
 <img width="697" height="393" alt="Screenshot 2026-02-25 130804" src="https://github.com/user-attachments/assets/ff2d9da6-5859-4242-a707-559540164eca" />
 
+<img width="693" height="381" alt="Screenshot 2026-02-25 130904" src="https://github.com/user-attachments/assets/7a20615c-3b41-41ea-a8f8-5e5ea03bbf62" />
+
 
 
 #  Tech Studio Performance Analysis Dashboard
